@@ -1,15 +1,9 @@
 <template>
-  <div>{{ test }}</div>
+  <h1 class="text-center">Pe poa peo</h1>
 </template>
 
 <script>
-export default {
-  data() {
-    return {
-      test: 'heelo',
-    };
-  },
-};
+export default {};
 </script>
 
 <style lang="scss" scoped></style>
